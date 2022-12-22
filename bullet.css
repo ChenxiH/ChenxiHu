@@ -1,0 +1,42 @@
+.research-tag::before {
+    font-family: "Font Awesome 5 Free"; 
+    font-weight: 900; 
+    content: "\f305";
+    padding-right: 10px;  
+}
+
+.code-tag::before {
+    font-family: "Font Awesome 5 Free";
+    font-weight: 900;
+    content: "\f121";
+    padding-right: 10px;  
+    
+}
+
+.code-laptop-tag::before {
+    font-family: "Font Awesome 5 Free";
+    font-weight: 900;
+    content: "\f5fc";
+    padding-right: 10px;
+}
+
+.code-desktop::before {
+    font-family: "Font Awesome 5 Free";
+    font-weight: 900;
+    content: "\f108";
+    padding-right: 10px;
+}
+
+.math::before {
+    font-family: "Font Awesome 5 Free";
+    font-weight: 900;
+    content: "\f1ec";
+    padding-right: 10px;
+}
+
+.task-tag::before{
+    font-family: "Font Awesome 5 Free";
+    font-weight: 900;
+    content: "\f0ae";
+    padding-right: 10px;
+}
